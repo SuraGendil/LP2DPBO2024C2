@@ -1,10 +1,8 @@
 +==========================================================================+
-+                                                                          +
 + Saya Raden Rahman Ismail (2200311)                                       +
 + mengerjakan soal Latihan_Java_CPP_Python_PHP dalam mata kuliah DPBO      +
 + untuk keberkahanNya maka saya tidak melakukan kecurangan                 +
 + seperti yang telah dispesikasikan.Aamiin                                 +
-+                                                                          +
 +==========================================================================+
 
 Deskripsi :
