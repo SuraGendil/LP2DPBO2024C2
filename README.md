@@ -1,11 +1,4 @@
-// +==========================================================+
-// +                                                          +
-// + Saya Raden Rahman Ismail (2200311)                       +
-// + mengerjakan soal Latihan_Java dalam mata kuliah DPBO     +
-// + untuk keberkahanNya maka saya tidak melakukan kecurangan +
-// + seperti yang telah dispesikasikan.Aamiin                 +
-// +                                                          +
-// +==========================================================+
+Saya Raden Rahman Ismail (2200311) mengerjakan soal Latihan_Java dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesikasikan.Aamiin                
 
 Deskripsi :
 Ini adalah Program dimana fungsi utamanya adalah untuk mendata baju baju dengan
